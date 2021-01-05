@@ -17,4 +17,4 @@ I am currently working as a Frontend Engineer at <a href="https://www.invisible.
 🍁 Authentication<br />
 🌵 And more!<br />
 <br />
-I love my current job! I'm not interested in new positions at this time. If you'd like to learn more about me, feel free to take a look at my <a href="https://resume.creddle.io/resume/85r6ww8x3i3">resume</a>, <a href="https://www.linkedin.com/in/allie-robinson/">linkedin</a>, or <a href="allie-robinson.com">portfolio</a>. 
+I love my current job! I'm not interested in new positions at this time. If you'd like to learn more about me, feel free to take a look at my <a href="https://www.linkedin.com/in/allie-robinson/">linkedin</a>.
