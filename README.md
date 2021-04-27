@@ -2,7 +2,7 @@
 
 I am currently working as a Frontend Engineer at <a href="https://www.invisible.ai/">Invisible AI</a>. <br />
 
-## Skills I use every day:<br />
+### Skills I use every day:<br />
 🌷 React<br />
 🦋 Hooks<br />
 🦚 Redux<br />
