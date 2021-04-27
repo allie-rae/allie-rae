@@ -2,19 +2,15 @@
 
 I am currently working as a Frontend Engineer at <a href="https://www.invisible.ai/">Invisible AI</a>. <br />
 
-### My current skills: <br />
-🌷 React & Redux<br />
-🦚 Node & Express<br />
+## Skills I use every day:<br />
+🌷 React<br />
+🦋 Hooks<br />
+🦚 Redux<br />
+🍄 Sagas<br />
 🌸 JavaScript<br />
 🌹 Responsive Design<br />
-🌿 HTML5 & CSS3<br />
-🍄 TypeScript<br />
+🌺 Reactstrap and custom CSS<br />
 🍀 Form Validation<br />
-🌺 JSON Web Tokens<br />
-🐍 Python<br />
-🦋 SQL<br />
-🏵 Relational Database Design<br />
-🍁 Authentication<br />
-🌵 And more!<br />
+
 <br />
-I love my current job! I'm not interested in new positions at this time. If you'd like to learn more about me, feel free to take a look at my <a href="https://www.linkedin.com/in/allie-robinson/">linkedin</a>.
+I love my current job! I'm learning and growing every day. If you'd like to learn more about me, feel free to take a look at my <a href="https://www.linkedin.com/in/allie-robinson/">linkedin</a>.
