@@ -2,4 +2,4 @@
 
 My current side project: <a href="https://github.com/just-jollie/persephone">Persephone</a>. 💕<br />
 
-I'm loving my career as a software engineer. If you'd like to learn more about me, take a peek at my <a href="https://www.linkedin.com/in/allie-robinson/">LinkedIn</a>!
+I'm loving my career as a software engineer. If you'd like to learn more about me, take a peek at my <a href="https://www.linkedin.com/in/allie-robinson/">LinkedIn</a>.
