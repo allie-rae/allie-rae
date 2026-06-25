@@ -1,5 +1,3 @@
-### My name is Allie Robinson, nice to meet you. 🌻
+### My name is Allie Robinson. Nice to meet you. 🌻
 
-If you'd like to see examples of my work, check out <a href="https://braggart.vercel.app/">Braggart</a> and <a href="https://rescue-the-birds.vercel.app/">Rescue the birds.</a>
-
-I'm loving my career as a software engineer. If you'd like to learn more about me, feel free to connect with me on <a href="https://www.linkedin.com/in/allie-robinson/">LinkedIn</a>!
+I'm loving my career as a software engineer. I'm currently enrolled in <a href="https://www.theseniordev.com/">Software Mastery by theSeniorDev.com</a>. If you'd like to say hello, feel free to connect with me on <a href="https://www.linkedin.com/in/allie-robinson/">LinkedIn</a>!
