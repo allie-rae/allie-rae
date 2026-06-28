@@ -1,3 +1,5 @@
-### My name is Allie Robinson. Nice to meet you. 🌻
+<div align="center">
 
-I'm loving my career as a software engineer. I'm currently enrolled in <a href="https://www.theseniordev.com/">Software Mastery by theSeniorDev.com</a>. If you'd like to say hello, feel free to connect with me on <a href="https://www.linkedin.com/in/allie-robinson/">LinkedIn</a>!
+<img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=c2867f&text=allie%20rae%20robinson&fontColor=ffffff&fontSize=50&stroke=c2867f&strokeWidth=3&rotate=0&fontAlign=31&desc=hey.allie.rae@gmail.com&descAlign=51&descSize=-1&reversal=true&descAlignY=59" width="100%"/>
+
+</div>
